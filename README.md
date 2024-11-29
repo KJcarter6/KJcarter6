@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Speech pathology site**
 
-- 🌱 I’m currently learning **Rust, Python, PHP, TypeScript**
+- 🌱 I’m currently learning **Rust & Go**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, & Python**
 
